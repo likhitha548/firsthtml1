@@ -1,0 +1,31 @@
+.gear{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+.pill{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+body{
+    text-align: center;
+}
+.purple{
+    color: rgb(207, 86, 207);
+}
+p{
+    color: grey;
+}
+.lens{
+    position: relative;
+    
+    left: 30px;
+}
+.search-bar{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
